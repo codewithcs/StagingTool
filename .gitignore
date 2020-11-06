@@ -1,0 +1,9 @@
+.project
+.metadata
+*.iml
+.idea
+target/
+bin/
+.classpath
+.settings/
+maven-repo-local/
